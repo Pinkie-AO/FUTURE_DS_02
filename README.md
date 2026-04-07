@@ -21,10 +21,32 @@ b. Key Insights & Findings
 
 3. Early Lifecycle Volatility
 
-    Observation: The highest churn occurs within the first 12 months of tenure.
+   Observation: The highest churn occurs within the first 12 months of tenure.
 
-    Insight: The "onboarding" phase is critical. If a customer stays past Year 1, their lifetime value (LTV) increases exponentially.
+   Insight: The "onboarding" phase is critical. If a customer stays past Year 1, their lifetime value (LTV) increases exponentially.
 
+High-Risk Segment Analysis.
+
+   Beyond contract types, the data reveals specific demographic and service-related triggers for churn:
+
+4. Senior Citizen Vulnerability
+
+While Senior Citizens make up a smaller portion of the total base, their churn rate is significantly higher at 41.68% (compared to the global average of 26.54%).
+
+Insight: This segment may struggle with complex billing or technical setups, making them more likely to leave if they feel unsupported.
+
+5. The "Tech Support" Gap:
+
+Observation: Customers who do not have Tech Support enabled on their accounts show a drastically higher churn rate of 41.64%
+
+Insight: Technical friction without a clear "rescue" path leads to immediate frustration and cancellation. Tech Support acts as a "stickiness" factor—once a customer uses support, they are statistically more likely to stay.
+
+6. Gender Neutrality:
+
+Observation: Churn is almost perfectly split between Male (26.16%) and Female (26.92%) customers.
+
+Insight: Retention strategies do not need to be gender-specific; focus instead on service-level improvements.
+ 
 c. Tech Stack
 
 Data Visualization: Power BI
@@ -42,12 +64,23 @@ Figure 2B: Customer Cohorts and Monthly Charges Impact
 
 
 e. Recommendations
- 
-Contract Incentives: Launch a campaign to migrate Month-to-Month users to Annual plans using "loyalty discounts."
 
-Payment Method Optimization: Encourage a shift from Electronic Checks to Automated Bank Transfers to reduce involuntary churn.
+1. Product & Contract Migration
 
-Fiber Service Audit: Conduct a technical review of Fiber Optic performance in high-churn regions to ensure service quality matches the premium price.
+    Annual Plan Incentives: Launch a targeted campaign to migrate "Month-to-Month" users to 1-year or 2-year contracts. Offering a "Loyalty Discount" for the first 3 months of a long-term commitment can significantly reduce the 1.7K churn count in this segment.
 
+    The "Partner" Discount: Since customers with partners are more likely to stay, introduce "Family/Duo Plans" for solo account holders to increase the social and financial "stickiness" of the subscription.
+
+2. Service Quality & Technical Support (Fiber Focus)
+
+    Fiber Service Audit: Conduct a deep-dive technical review of Fiber Optic performance in high-churn geographic regions. The current high churn rate for Fiber users suggests a gap between the premium price and the service reliability.
+
+    Tech Support Bundling: Proactively bundle Tech Support as a "Free Trial" for the first 6 months for all new Fiber Optic customers. This helps clear early-lifecycle technical hurdles, which is a key driver for early churn.
+
+3. Billing & Payment Friction
+
+    Auto-Pay Transition: Encourage a shift from manual Electronic Checks to automated Bank Transfers or Credit Cards. This reduces "involuntary churn" caused by missed manual payments and credit card expirations.
+
+    Senior Care Onboarding: Given that 41.68% of Senior Citizens churn, a specialized onboarding program is needed. This should include simplified billing walkthroughs and a dedicated support line to help them navigate technical setups and billing inquiries.
 
     Open with Power BI Desktop.# FUTURE_DS_02
