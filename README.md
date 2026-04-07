@@ -1,4 +1,4 @@
-Telco Customer Churn Analysis
+TELCO CUSTOMER CHURN ANALYSIS
 
 a. Project Overview
 
