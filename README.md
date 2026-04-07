@@ -1,9 +1,11 @@
 Telco Customer Churn Analysis
+
 a. Project Overview
 
 This project focuses on identifying key drivers of customer attrition for a telecommunications provider. By analyzing customer demographics, account information, and service usage, this dashboard provides actionable insights to improve retention rates and stabilize revenue.
 
 Target Goal: Identify why 26.54% of customers are leaving and provide data-driven recommendations to reduce this figure.
+
 b. Key Insights & Findings
 1. The "Month-to-Month" Risk
 
@@ -31,11 +33,13 @@ Data Processing: Excel / Power Query
 
 Concepts Applied: Cohort Analysis, Churn Rate Calculation, Customer Segmentation
 
+
 d.Dashboard Preview
 
 Figure 2A: Executive Overview of Churn Metrics
 
 Figure 2B: Customer Cohorts and Monthly Charges Impact
+
 
 e. Recommendations
  
@@ -45,6 +49,5 @@ Payment Method Optimization: Encourage a shift from Electronic Checks to Automat
 
 Fiber Service Audit: Conduct a technical review of Fiber Optic performance in high-churn regions to ensure service quality matches the premium price.
 
- the .pbix file from this repository.
 
     Open with Power BI Desktop.# FUTURE_DS_02
